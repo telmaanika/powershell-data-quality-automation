@@ -1,0 +1,9 @@
+
+```json
+{
+  "InputFolder": "./sample_data",
+  "ArchiveFolder": "./archive",
+  "LogFolder": "./logs",
+  "ProviderFilePattern": "providers_*.csv",
+  "CredentialFilePattern": "credentials_*.csv"
+}
