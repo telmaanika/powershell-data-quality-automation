@@ -1,0 +1,5 @@
+ProviderID,FirstName,LastName,NPI,Specialty,Status
+1,Sarah,Coleman,1234567890,Pediatrics,Active
+2,James,Lee,2345678901,Cardiology,Active
+3,Mia,Davis,3456789012,Dermatology,Inactive
+4,,Nguyen,9876543210,Oncology,Active
